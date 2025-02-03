@@ -26,5 +26,5 @@ $ javac Box.java
 $ java Box
 ```
 
-> `Box.java` and `IntLinkedList` exercises may not compile and run correctly until they are completed.
+> `Box.java` and `IntLinkedList.java` exercises may not compile and run correctly until they are completed.
 
