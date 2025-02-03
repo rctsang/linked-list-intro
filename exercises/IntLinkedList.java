@@ -31,6 +31,7 @@ public class IntLinkedList {
 		}
 	}
 
+	// helper to throw an index OOB exception
 	private static void iob(int index) throws IndexOutOfBoundsException {
 		throw new IndexOutOfBoundsException("index out of bounds: " + index);
 	}
